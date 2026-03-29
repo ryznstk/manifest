@@ -3,5 +3,5 @@
     <project name="ryznstk/xiaomi"
         path="device/xiaomi/peridot"
         remote="github"
-        revision="ax" />
+        revision="lineage-23.2" />
 </manifest>
