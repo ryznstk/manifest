@@ -3,5 +3,5 @@
     <project name="ryznstk/xm"
         path="device/xiaomi/peridot"
         remote="github"
-        revision="evo" />
+        revision="evo-test" />
 </manifest>
