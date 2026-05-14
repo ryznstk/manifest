@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="ryznstk/evo"
+    <project name="ryznstk/pure"
         path="device/xiaomi/peridot"
         remote="github"
         revision="evo" />
