@@ -3,5 +3,5 @@
     <project name="ryznstk/pure"
         path="device/xiaomi/peridot"
         remote="github"
-        revision="ascp" />
+        revision="lineagw-24.0" />
 </manifest>
