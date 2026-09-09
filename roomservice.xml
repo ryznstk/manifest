@@ -5,5 +5,5 @@
         remote="github"
         revision="sh" />
 
-    <remove-project path="vendor/shinkai" />
+    <remove-project path="vendor/custom" />
 </manifest>
