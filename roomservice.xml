@@ -4,4 +4,6 @@
         path="device/xiaomi/peridot"
         remote="github"
         revision="sh" />
+
+    <remove-project path="vendor/shinkai" />
 </manifest>
