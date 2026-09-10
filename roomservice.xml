@@ -6,4 +6,5 @@
         revision="sh" />
 
     <remove-project path="vendor/custom" />
+    <remove-project path="packages/apps/DolbyAtmos" />
 </manifest>
