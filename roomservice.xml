@@ -3,8 +3,5 @@
     <project name="ryznstk/device_xiaomi_peridot_rb"
         path="device/xiaomi/peridot"
         remote="github"
-        revision="sh" />
-
-    <remove-project path="vendor/custom" />
-    <remove-project path="packages/apps/DolbyAtmos" />
+        revision="lineage-24.0" />
 </manifest>
